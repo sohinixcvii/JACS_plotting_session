@@ -1,5 +1,5 @@
 # Plotting without tears : a guide to making pretty plots in python
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 ## Before the session (15 minutes, please do this beforehand)
 
 1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
@@ -17,7 +17,7 @@
 - Restart your kernel 
 - Windows: if healpy fails to install, use WSL or pair up.
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 ## What's in this folder
 
 - `jacs_participant.ipynb`: the notebook we'll work through together.
