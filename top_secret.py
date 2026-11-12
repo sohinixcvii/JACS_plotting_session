@@ -23,3 +23,14 @@ def secret_func(show=False):
 
     # if show:
     #     plt.show()
+
+def zen():
+    """The plotting commandments."""
+    print("\n".join([
+        "1. Choose the plot for the question, not for the data.",
+        "2. A colourbar without a label is a rumour.",
+        "3. If it only works in colour, it doesn't work.",
+        "4. Make the choice once, in a style file.",
+        "5. If the code ran, you have learned nothing about whether it's right.",
+        "6. Check the plot. Then check the checker.",
+    ]))
