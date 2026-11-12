@@ -1,0 +1,13 @@
+name: jacs-plotting
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - matplotlib>=3.7
+  - astropy>=5.3
+  - healpy>=1.16
+  - corner>=2.2
+  - seaborn>=0.13
+  - jupyterlab>=4.0
+  - ipykernel>=6.0
