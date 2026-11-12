@@ -46,6 +46,7 @@ A solutions notebook and the cheat sheet will be released after the session.
 ---
 
 Happy plotting! 🔭
-Sohini
 
-Questions are welcome any time by any format (except courier pigeons or other avian methods, my windows don't open wide enough to let them in). 
+_Sohini_
+
+> _Questions are welcome any time by any format (except courier pigeons or other avian methods, sadly my windows don't open wide enough to let them in)._
