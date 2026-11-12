@@ -9,7 +9,7 @@
    conda activate jacs-plotting
    python -m ipykernel install --user --name jacs-plotting --display-name "JACS plotting"
    ```
-3. Open `jacs_participant.ipynb` in Jupyter (`jupyter lab`) or VS Code and pick the **JACS plotting** kernel.
+3. Open `jacs_participant.ipynb` in `Jupyter` or `VS Code` and pick the **JACS plotting** kernel.
 4. Run the first code cell (the setup check). If it prints **"🎉 All good! Kernel ready, packages found, data in place. Grab your keyboards, it's time to lock in."**, you're ready.
 
 ## If something goes wrong
